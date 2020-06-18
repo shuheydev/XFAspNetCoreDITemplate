@@ -131,9 +131,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\XFAspNetCoreDITemplate\XFAspNetCoreDITemplate.csproj">
+    <ProjectReference Include="..\$ext_safeprojectname$\$ext_safeprojectname$.csproj">
       <Project>{7DD7EBB5-8DCB-428D-A7B2-FE93EE1EFC89}</Project>
-      <Name>XFAspNetCoreDITemplate</Name>
+      <Name>$ext_safeprojectname$</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

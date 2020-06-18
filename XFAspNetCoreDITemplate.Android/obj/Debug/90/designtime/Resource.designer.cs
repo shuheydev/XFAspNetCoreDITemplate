@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("$safeprojectname$.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("$ext_safeprojectname$.Droid.Resource", IsApplication=true)]
 
-namespace $safeprojectname$
+namespace $ext_safeprojectname$.Droid
 {
 	
 	

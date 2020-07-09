@@ -1,10 +1,10 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="ProjectGroup">
   <TemplateData>
-    <Name>Xamarin.Forms with ASP.NET Core DI (.NET Standard 2.1)</Name>
-    <Description>Xamarin.Forms with ASP.NET Core DI template.</Description>
+    <Name>Xamarin.Forms with Generic host (.NET Standard 2.1)</Name>
+    <Description>Xamarin.Forms with Generic host template.</Description>
     <ProjectType>CSharp</ProjectType>
     <Icon></Icon>
-    <DefaultName>XFAppAspDI</DefaultName>
+    <DefaultName>App</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
   </TemplateData>
   <TemplateContent PreferedSolusionConfigration="Debug|Any CPU">

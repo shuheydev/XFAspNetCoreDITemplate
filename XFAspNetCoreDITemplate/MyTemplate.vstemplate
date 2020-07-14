@@ -16,8 +16,6 @@
   </TemplateData>
   <TemplateContent>
     <Project TargetFileName="XFAspNetCoreDITemplate.csproj" File="XFAspNetCoreDITemplate.csproj" ReplaceParameters="true">
-      <Folder Name="Services" TargetFolderName="Services" />
-      <Folder Name="ViewModels" TargetFolderName="ViewModels" />
       <Folder Name="Views" TargetFolderName="Views">
         <ProjectItem ReplaceParameters="true" TargetFileName="MainPage.xaml">MainPage.xaml</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="MainPage.xaml.cs">MainPage.xaml.cs</ProjectItem>

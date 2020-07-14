@@ -6,11 +6,11 @@ namespace $safeprojectname$
 {
     public partial class App : Application
     {
-        public App(Page startupPage)
+        public App()
         {
             InitializeComponent();
 
-            MainPage = startupPage;
+            MainPage = Startup.ServiceProvider.GetService<Shell>();
         }
 
         protected override void OnStart()
